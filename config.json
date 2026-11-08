@@ -1,0 +1,15 @@
+{
+  "startDate": "2027-04-11",
+  "endDate": "2027-06-01",
+  "minStayDays": 28,
+  "maxStayDays": 42,
+  "adults": 1,
+  "origin": "yow0",
+  "destination": "bjs",
+  "cabin": "y_s",
+  "currency": "CNY",
+  "requestGapSeconds": 20,
+  "pageTimeoutSeconds": 75,
+  "freshHours": 12,
+  "browserChannel": "chrome"
+}

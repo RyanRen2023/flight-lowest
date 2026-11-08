@@ -1,0 +1,13 @@
+{
+  "name": "ottawa-beijing-lowest-fare",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "plan": "node cli.mjs plan",
+    "search": "node cli.mjs search",
+    "report": "node cli.mjs report",
+    "test": "node --test"
+  },
+  "dependencies": {"playwright": "^1.56.0"},
+  "engines": {"node": ">=20"}
+}
